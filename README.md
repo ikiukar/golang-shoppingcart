@@ -1,1 +1,1 @@
-Studi Kasus - Golang Bootcamp RapidTech - Ikram A U
+Personal Project - Golang Bootcamp RapidTech - Ikram A U
